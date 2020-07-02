@@ -1,2 +1,2 @@
-# Jyot-Makadiya
-The !first handy tool to complete your task and project within 1 months
+# test repo
+The !first handy tool to complete your task and project. test repo for me.
